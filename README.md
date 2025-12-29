@@ -2,7 +2,11 @@
 
 **From the "Logic Trap" to Nonlinear Causal Dynamics**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18084010.svg)](https://zenodo.org/records/18084010)
+
 This repository contains the simulation code and LaTeX source for the paper arguing that current AI architectures (linear stack approximations) are fundamentally incapable of handling causal phase transitions, and proposing a dissipative intelligence model based on the Landau-Stuart equation.
+
+**Full Paper (PDF):** [Zenodo](https://zenodo.org/records/18084010)
 
 ## Paper Abstract
 
@@ -13,7 +17,6 @@ Current LLMs face a sustainability crisis due to the "Logic Trap" phenomenon. Th
 | File | Description |
 |------|-------------|
 | `paper.tex` | LaTeX source for the paper |
-| `paper.pdf` | Compiled PDF |
 | `causal_dynamics_comparison.py` | Simulation comparing linear vs nonlinear models |
 | `causal_dynamics_comparison.png` | Generated figure |
 
