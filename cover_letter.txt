@@ -1,0 +1,33 @@
+[Date: 2025/12/29]
+
+Liesbeth Venema, Ph.D.
+Chief Editor, Nature Machine Intelligence
+(or Current Handling Editor)
+
+Re: Submission of Perspective article, "Dissipative Intelligence: From the 'Logic Trap' to Nonlinear Causal Dynamics"
+
+Dear Dr. Venema,
+
+We are witnessing a sustainability crisis in Large Language Models (LLMs). While the community focuses on "scaling laws," current architectures face a structural inevitability we term the "Logic Trap"—a convergence into closed loops of logical fallacies and ethical decay due to linear data accumulation.
+
+I am submitting the enclosed manuscript to be considered for publication as a Perspective in Nature Machine Intelligence. In this work, I propose a fundamental paradigm shift: moving from "Static Accumulation" to "Dissipative Intelligence."
+
+Crucially, this paper provides a mathematical proof linking the ethical failures of AI (sycophancy, hallucination) to the inability of linear stack approximations to model causal phase transitions. By introducing the Landau-Stuart equation from non-equilibrium thermodynamics into the domain of AI architecture, I demonstrate that "forgetting" (dissipation) is not a flaw, but a necessary condition for robust intelligence in dynamic environments.
+
+This work integrates insights from:
+
+1. AI Ethics: Defining the "Logic Trap" and "Self-Affirmation Trap" (experimentally reproduced in recent Zenodo preprints).
+2. Nonlinear Physics: Applying bifurcation theory to causal confidence modeling.
+3. Architecture: Proposing a bio-inspired "Predictive Inhibition" mechanism.
+
+Given Nature Machine Intelligence's commitment to bridging machine learning with other scientific disciplines and addressing societal impact, I believe this physical-mathematical critique of current AI trends will be of significant interest to your broad readership, ranging from computer scientists to physicists and ethicists.
+
+A preprint of this work has been deposited in Zenodo (DOI: 10.5281/zenodo.18084010) to facilitate open scientific discourse.
+
+Thank you for your consideration.
+
+Sincerely,
+
+Ryuhei Ishibashi
+Elanare Institute
+rysh.cact@gmail.com
